@@ -47,7 +47,7 @@ binary-image-classifier
 
 Clone the repository:
 
-git clone https://github.com/codingclone/binary-image-classifier.git
+https://github.com/codingClone486/Binary-Image-Classifier-.git
 cd binary-image-classifier
 
 Install dependencies:
